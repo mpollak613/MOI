@@ -1,2 +1,5 @@
 # visual studio
 .vscode
+
+#C++
+*.o
